@@ -3,7 +3,7 @@ version: 0.0.1-a0
 maintainers:
   - Matvey Vasenin <mat.vasenin@yandex.ru>
 description: "Low-level graphical framework for the ESP-IDF ecosystem"
-license: "GPL-3.0-only"
+license: "Apache-2.0"
 url: "https://stormstack.ru/projects/integrium"
 repository: "https://github.com/ReMatrixed/integrium"
 repository_info:
