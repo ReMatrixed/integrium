@@ -1,0 +1,9 @@
+# Файлы редакторов кода
+.vscode/
+
+# Файлы сборки проекта
+build/
+
+# Файлы настроек ESP-IDF
+sdkconfig
+sdkconfig.old
