@@ -1,0 +1,13 @@
+# Manifest of the Graphium
+version: 0.0.1-a0
+maintainers:
+  - Matvey Vasenin <mat.vasenin@yandex.ru>
+description: "GUI-oriented framework for the ESP-IDF ecosystem"
+license: "GPL-3.0-only"
+url: "https://stormstack.ru/projects/integrium"
+repository: "https://github.com/ReMatrixed/integrium"
+repository_info:
+  path: "components/graphium"
+dependencies:
+  idf:
+    version: ">=4.1.0"
